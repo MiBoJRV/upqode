@@ -1,0 +1,43 @@
+/* poppins-regular - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/poppins-v8-latin-regular.eot");
+  /* IE9 Compat Modes */
+  src: local("Poppins Regular"), local("Poppins-Regular"), url("../fonts/poppins-v8-latin-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/poppins-v8-latin-regular.woff2") format("woff2"), url("../fonts/poppins-v8-latin-regular.woff") format("woff"), url("../fonts/poppins-v8-latin-regular.ttf") format("truetype"), url("../fonts/poppins-v8-latin-regular.svg#Poppins") format("svg");
+  /* Legacy iOS */
+}
+
+/* poppins-600 - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/poppins-v8-latin-600.eot");
+  /* IE9 Compat Modes */
+  src: local("Poppins SemiBold"), local("Poppins-SemiBold"), url("../fonts/poppins-v8-latin-600.eot?#iefix") format("embedded-opentype"), url("../fonts/poppins-v8-latin-600.woff2") format("woff2"), url("../fonts/poppins-v8-latin-600.woff") format("woff"), url("../fonts/poppins-v8-latin-600.ttf") format("truetype"), url("../fonts/poppins-v8-latin-600.svg#Poppins") format("svg");
+  /* Legacy iOS */
+}
+
+/* poppins-900 - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/poppins-v8-latin-900.eot");
+  /* IE9 Compat Modes */
+  src: local("Poppins Black"), local("Poppins-Black"), url("../fonts/poppins-v8-latin-900.eot?#iefix") format("embedded-opentype"), url("../fonts/poppins-v8-latin-900.woff2") format("woff2"), url("../fonts/poppins-v8-latin-900.woff") format("woff"), url("../fonts/poppins-v8-latin-900.ttf") format("truetype"), url("../fonts/poppins-v8-latin-900.svg#Poppins") format("svg");
+  /* Legacy iOS */
+}
+
+/* gilroy-regular - latin */
+@font-face {
+  font-family: 'Gilroy';
+  font-weight: normal;
+  font-style: 400;
+  src: url("../fonts/Gilroy-Regular.eot");
+  /* IE9 Compat Modes */
+  src: local("Gilroy Regular"), local("Gilroy-Regular"), url("../fonts/Gilroy-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Gilroy-Regular.woff2") format("woff2"), url("../fonts/Gilroy-Regular.woff") format("woff"), url("../fonts/Gilroy-Regular.ttf") format("truetype");
+}
+/*# sourceMappingURL=fonts.css.map */

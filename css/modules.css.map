@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,MAAM,CAAC;EAAE,IAAI,EAAE,QAAQ;CAAI",
+    "sources": [
+        "../dev/static/styles/modules/modules.scss",
+        "../dev/static/styles/modules/buttons/buttons.scss",
+        "../dev/static/styles/modules/footer/footer.scss",
+        "../dev/static/styles/modules/header/header.scss",
+        "../dev/static/styles/modules/navigation/navigation.scss",
+        "../dev/static/styles/modules/small-blocks/small-blocks.scss"
+    ],
+    "names": [],
+    "file": "modules.css"
+}
