@@ -37,9 +37,10 @@ $.gulp.task('build', $.gulp.series(
         // 'img:build'
         'libsJS:build',
         'js:dev',
-        // 'js:build-min'
+        'js:build-min',
         // 'svg',
         'html'
+        // 'minifyHtml:build'
     )
 ));
 $.gulp.task('default', $.gulp.series(
